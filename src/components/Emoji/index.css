@@ -1,0 +1,15 @@
+.imoji {
+  width: 60px;
+}
+
+.emoji-name {
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.list-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 20%;
+}

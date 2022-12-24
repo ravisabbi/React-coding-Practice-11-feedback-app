@@ -1,0 +1,49 @@
+/* Write your CSS code here. */
+.app-container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.feedback-container {
+  background-color: #ffffffff;
+  border: 0px solid;
+  border-radius: 10px;
+  width: 80%;
+  height: 45%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-sizing: content-box;
+  padding: 10px;
+  align-items: center;
+}
+.list-container {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 25px;
+  text-align: center;
+}
+.thank-you-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #0f172a;
+  text-align: center;
+}
+.love-image {
+  width: 100px;
+}
+.customer-support {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #1e293b;
+  text-align: center;
+}
